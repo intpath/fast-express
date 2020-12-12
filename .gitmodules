@@ -1,0 +1,3 @@
+[submodule "intpath/delivery_management"]
+	path = intpath/delivery_management
+	url = git@github.com:ahmadn91/delivery_management.git
